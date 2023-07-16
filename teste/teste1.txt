@@ -1,0 +1,9 @@
+Divisao;camara?;intrusos?;animal?;somVidroPartir?;codigo?
+cozinha;simT;nao;nao;nao;nao
+escritorio;simT;nao;simT;nao;nao
+quarto 1;simT;nao;nao;nao;nao
+quarto 2;simT;nao;nao;nao;nao
+quarto 3;simT;nao;nao;nao;nao
+quintal;simT;nao;simF;nao;nao
+garagem;simT;nao;nao;nao;nao
+sala;simT;nao;nao;nao;nao
